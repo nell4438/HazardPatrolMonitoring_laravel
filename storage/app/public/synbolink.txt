@@ -1,0 +1,1 @@
+mklink /d "pictures" "\\hrdapps9\HazardPatrolMonitoring\"
