@@ -1,0 +1,13 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/chunks/login.js": "/js/chunks/login.js",
+    "/js/chunks/HazardPatrolMonitoring.js": "/js/chunks/HazardPatrolMonitoring.js",
+    "/js/chunks/SOHazardMonitoring.js": "/js/chunks/SOHazardMonitoring.js",
+    "/js/chunks/users.js": "/js/chunks/users.js",
+    "/js/chunks/employeeEmail.js": "/js/chunks/employeeEmail.js",
+    "/js/chunks/hazardCategories.js": "/js/chunks/hazardCategories.js",
+    "/js/chunks/hazardAreas.js": "/js/chunks/hazardAreas.js",
+    "/js/chunks/safetyOfficers.js": "/js/chunks/safetyOfficers.js",
+    "/js/chunks/departments.js": "/js/chunks/departments.js",
+    "/css/app.css": "/css/app.css"
+}
